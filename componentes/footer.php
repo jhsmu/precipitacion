@@ -20,11 +20,11 @@
                 <div class="contactanos mt-3">
                     <h2>Contactanos</h2>
                     <h3> Telefono</h3>
-                    <p>3045618907</p>
+                    <p>3003617908</p>
                     <h3 >Correo</h3>
-                    <p>Quibdosolar@gmail.com</p>
+                    <p>Icho@gmail.com</p>
                     <h3 >Direccion</h3>
-                    <p>Cra 50 #31-24 B/: medrano</p>
+                    <p>Cra 10 #36-26 B/: nuño jesus</p>
                 </div>
             </div>
         </div>
