@@ -20,16 +20,16 @@
             <a class="nav-link" href="./nosotros.php">Nosotros</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Estadisticas</a>
+            <a class="nav-link" href="./estadisticas.php">Estadisticas</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Informe</a>
+            <a class="nav-link" href="./informe.php">Informe</a>
           </li>
         </ul>
         <!-- sign up/ login -->
         <ul class="navbar-nav ms-auto d-flex flex-column flex-lg-row justify-content-center align-items-center gap-3">
         <div class=" transparentes">
-                                <li class="nav-item"><a class="nav-link dropdown-item text-black text-decoration-none px-3 py-1 rounded-4"
+                                <li class="nav-item"><a class="nav-link dropdown-item text-black text-decoration-none px-3 py-1 rounded-4 fs-5 text-white"
                                         href="./acciones/cerrarSesion.php"><i class="fa fa-door-open"></i>Cerrar
                                         sesión</a></li>
                             </ul>

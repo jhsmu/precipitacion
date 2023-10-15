@@ -1,0 +1,65 @@
+/* Estilos para los botones */
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px; /* Espacio entre los botones y los bordes del contenedor */
+}
+
+.select-button{
+    padding: 10px 20px; /* Ajusta el espacio interno del botón */
+    background-color: #007BFF; /* Color de fondo del botón (puedes cambiarlo) */
+    color: #fff; /* Color del texto del botón (puedes cambiarlo) */
+    border: none; /* Sin borde */
+    cursor: pointer;
+    
+}
+
+/* Estilos responsivos */
+@media (max-width: 600px) {
+    .button-container {
+        flex-direction: column; /* Cambia la disposición de los botones en pantallas pequeñas */
+    }
+}
+
+#map-container {
+    width: 100%; /* Ancho del 100% del contenedor padre */
+    height: 400px; /* Altura deseada en píxeles o porcentaje */
+}
+
+.date-range {
+    display: flex;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.date-input {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px; /* Espacio entre los campos de fecha */
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="date"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+}
+
+/* Ajusta los estilos responsivos según sea necesario */
+@media (max-width: 768px) {
+    .date-range {
+        flex-direction: column; /* Apilar los campos en dispositivos pequeños */
+    }
+    
+    .date-input {
+        margin-right: 0; /* Elimina el espacio entre los campos en dispositivos pequeños */
+    }
+}
