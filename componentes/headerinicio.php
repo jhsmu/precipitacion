@@ -2,13 +2,13 @@
     <!-- navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-transparent">
   <div class="container">
-    <a class="navbar-brand" href="./principal.php">IchoClimaOnline</a>
+    <a class="navbar-brand" href="./principal.php">Ichó Clima Online</a>
     <button class="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="sidebar offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header text-white border-bottom">
-        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">IchoClimaOnline</h5>
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Ichó Clima Online</h5>
         <button type="button" class="btn-close btn-close-white shadow-none" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body">

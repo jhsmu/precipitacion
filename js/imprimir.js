@@ -15,8 +15,8 @@ document.getElementById("printMarkerInfo").addEventListener("click", function() 
             // Configura el contenido que deseas imprimir en la ventana emergente
             var contentToPrint = `
                 <div>
-                <img src="./img/logo.png" alt="IchoClimaOnline" style="max-width: 100px; height: 100px;">
-                <span  style="font-size: 50px;"">IchoClimaOnline</span>
+                <img src="./img/logo.png" alt="Ichó Clima Online" style="max-width: 100px; height: 100px;">
+                <span  style="font-size: 50px;"">Ichó Clima Online</span>
                 </div>
                 <div style="text-align: center;">
                     <h1>Información del Marcador </h1>

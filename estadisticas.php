@@ -18,7 +18,7 @@
     <!-- css cuerpo -->
     <link rel="stylesheet" href="./css/estilos.css">
     <link rel="icon" type="image/x-icon" href="./img/logo.png">
-    <title>IchoClimaOnline: Nosotros</title>
+    <title>Ichó Clima Online: Nosotros</title>
 </head>
 <body>
     <!-- encabezado -->

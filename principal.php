@@ -19,7 +19,7 @@
     <!-- css footer y el header -->
     <link rel="stylesheet" href="./css/footer-header.css">
       <link rel="icon" type="image/x-icon" href="./img/logo.png">
-    <title>IchoClimaOnline</title>
+    <title>Ichó Clima Online</title>
 </head>
 <body>
     <?php
